@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weibo Offline</string>
+    <string name="notif_tickertext">New special friend weibo</string>
+    <string name="notif_contenttitle">Special Friend</string>
+    <string name="notif_contenttext">You have unread special friend weibo!</string>
+    
+    <string name="home_tab">Home</string>
+    <string name="message_tab">Message</string>
+    <string name="friends_tab">Friends</string>
+    <string name="discovery_tab">Discovery</string>
+    <string name="setting_tab">Settings</string>
+
+    <string name="weibo_account">at不到我</string>
+</resources>
