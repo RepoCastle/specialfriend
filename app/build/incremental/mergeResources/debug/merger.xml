@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/hjmao/workspace/specialfriend/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon_specialfriend"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_specialfriend.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ref_weibo_edges"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/ref_weibo_edges.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_discovery_selector"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_discovery_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_discovery_pressed"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_discovery_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="header_shape"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/header_shape.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="jj"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/jj.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_message"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_message.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_5"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_5.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mwqr"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/mwqr.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_message_selector"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_message_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_message_pressed"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_message_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_5_selector"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_5_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="haspic"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/haspic.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_2_pressed"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_2_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_2"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_2.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_discovery"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_discovery.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_1"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_3_selector"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_3_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_5_pressed"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_5_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_2_selector"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_2_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_1_pressed"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_1_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_3"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_3.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="home_btn_bg"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/home_btn_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_3_pressed"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_3_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_1_selector"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/icon_1_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="user_default_avatar"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable/user_default_avatar.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="weibo_list_item"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/layout/weibo_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="home"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/layout/home.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="message_tab" >Message
+                </string>
+                <string name="notif_tickertext" >New special friend weibo
+                </string>
+                <string name="weibo_account" >at不到我
+                </string>
+                <string name="app_name" >Weibo Offline
+                </string>
+                <string name="setting_tab" >Settings
+                </string>
+                <string name="friends_tab" >Friends
+                </string>
+                <string name="notif_contenttitle" >Special Friend
+                </string>
+                <string name="discovery_tab" >Discovery
+                </string>
+                <string name="home_tab" >Home
+                </string>
+                <string name="notif_contenttext" >You have unread special friend weibo!
+                </string>
+            </file>
+            <file
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style name="main_tab_bottom" >
+                    <item name="android:textSize">
+@dimen/bottom_tab_font_size
+                    </item>
+                    <item name="android:textColor">
+@color/snow
+                    </item>
+                    <item name="android:textColorHighlight">
+@color/white
+                    </item>
+                    <item name="android:ellipsize">
+marquee
+                    </item>
+                    <item name="android:gravity">
+center_horizontal
+                    </item>
+                    <item name="android:background">
+@drawable/home_btn_bg
+                    </item>
+                    <item name="android:paddingTop">
+@dimen/bottom_tab_padding_up
+                    </item>
+                    <item name="android:paddingBottom">
+@dimen/bottom_tab_padding_bottom
+                    </item>
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+fill_parent
+                    </item>
+                    <item name="android:button">
+@null
+                    </item>
+                    <item name="android:singleLine">
+true
+                    </item>
+                    <item name="android:drawablePadding">
+@dimen/bottom_tab_padding_drawable
+                    </item>
+                    <item name="android:layout_weight">
+1.0
+                    </item>
+                </style>
+
+                <style name="notitle" >
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="bottom_tab_padding_bottom" >2dp
+                </dimen>
+                <dimen name="widget_height" >100dip
+                </dimen>
+                <dimen name="widget_content_margin_top" >10.0dip
+                </dimen>
+                <dimen name="widget_logo_size" >35.0dip
+                </dimen>
+                <dimen name="widget_write_margin_left" >10.0dip
+                </dimen>
+                <dimen name="sta_height" >48.0dip
+                </dimen>
+                <dimen name="switch_logo_bottom_padding" >30.0sp
+                </dimen>
+                <dimen name="new_blog_size" >70.0dip
+                </dimen>
+                <dimen name="widget_content_margin_left" >10.0dip
+                </dimen>
+                <dimen name="button_height" >60dp
+                </dimen>
+                <dimen name="bottom_tab_padding_drawable" >3dp
+                </dimen>
+                <dimen name="title_height" >74.0dip
+                </dimen>
+                <dimen name="bottom_tab_font_size" >12sp
+                </dimen>
+                <dimen name="bottom_tab_padding_up" >6dp
+                </dimen>
+                <dimen name="widget_write_margin_top" >10.0dip
+                </dimen>
+            </file>
+            <file
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="lightgoldenrodyellow" >#FAFAD2
+                </color>
+                <color name="brown" >#A52A2A
+                </color>
+                <color name="lightgray" >#D3D3D3
+                </color>
+                <color name="turquoise" >#40E0D0
+                </color>
+                <color name="greenyellow" >#ADFF2F
+                </color>
+                <color name="slateblue" >#6A5ACD
+                </color>
+                <color name="rosybrown" >#BC8F8F
+                </color>
+                <color name="mediumseagreen" >#3CB371
+                </color>
+                <color name="orange" >#FFA500
+                </color>
+                <color name="mediumpurple" >#9370DB
+                </color>
+                <color name="darkolivegreen" >#556B2F
+                </color>
+                <color name="blueviolet" >#8A2BE2
+                </color>
+                <color name="lightsalmon" >#FFA07A
+                </color>
+                <color name="aliceblue" >#F0F8FF
+                </color>
+                <color name="darkgrey" >#A9A9A9
+                </color>
+                <color name="linen" >#FAF0E6
+                </color>
+                <color name="mediumorchid" >#BA55D3
+                </color>
+                <color name="aqua" >#00FFFF
+                </color>
+                <color name="mintcream" >#F5FFFA
+                </color>
+                <color name="red" >#FF0000
+                </color>
+                <color name="darkviolet" >#9400D3
+                </color>
+                <color name="orchid" >#DA70D6
+                </color>
+                <color name="violet" >#EE82EE
+                </color>
+                <color name="darkgreen" >#006400
+                </color>
+                <color name="dimgrey" >#696969
+                </color>
+                <color name="darkgoldenrod" >#B8860B
+                </color>
+                <color name="maroon" >#800000
+                </color>
+                <color name="palegoldenrod" >#EEE8AA
+                </color>
+                <color name="darkseagreen" >#8FBC8F
+                </color>
+                <color name="teal" >#008080
+                </color>
+                <color name="indigo" >#4B0082
+                </color>
+                <color name="plum" >#DDA0DD
+                </color>
+                <color name="chartreuse" >#7FFF00
+                </color>
+                <color name="hotpink" >#FF69B4
+                </color>
+                <color name="cadetblue" >#5F9EA0
+                </color>
+                <color name="darkturquoise" >#00CED1
+                </color>
+                <color name="steelblue" >#4682B4
+                </color>
+                <color name="springgreen" >#00FF7F
+                </color>
+                <color name="slategray" >#708090
+                </color>
+                <color name="lightcyan" >#E0FFFF
+                </color>
+                <color name="darkred" >#8B0000
+                </color>
+                <color name="mediumslateblue" >#7B68EE
+                </color>
+                <color name="cornflowerblue" >#6495ED
+                </color>
+                <color name="darkslategray" >#2F4F4F
+                </color>
+                <color name="darkkhaki" >#BDB76B
+                </color>
+                <color name="gainsboro" >#DCDCDC
+                </color>
+                <color name="lightblue" >#ADD8E6
+                </color>
+                <color name="grey" >#808080
+                </color>
+                <color name="darkcyan" >#008B8B
+                </color>
+                <color name="coral" >#FF7F50
+                </color>
+                <color name="palegreen" >#98FB98
+                </color>
+                <color name="powderblue" >#B0E0E6
+                </color>
+                <color name="whitesmoke" >#F5F5F5
+                </color>
+                <color name="seashell" >#FFF5EE
+                </color>
+                <color name="thistle" >#D8BFD8
+                </color>
+                <color name="lime" >#00FF00
+                </color>
+                <color name="deepskyblue" >#00BFFF
+                </color>
+                <color name="silver" >#C0C0C0
+                </color>
+                <color name="lightslategrey" >#778899
+                </color>
+                <color name="magenta" >#FF00FF
+                </color>
+                <color name="snow" >#FFFAFA
+                </color>
+                <color name="olivedrab" >#6B8E23
+                </color>
+                <color name="honeydew" >#F0FFF0
+                </color>
+                <color name="olive" >#808000
+                </color>
+                <color name="seagreen" >#2E8B57
+                </color>
+                <color name="moccasin" >#FFE4B5
+                </color>
+                <color name="cyan" >#00FFFF
+                </color>
+                <color name="mediumturquoise" >#48D1CC
+                </color>
+                <color name="lightyellow" >#FFFFE0
+                </color>
+                <color name="mediumvioletred" >#C71585
+                </color>
+                <color name="paleturquoise" >#AFEEEE
+                </color>
+                <color name="darksalmon" >#E9967A
+                </color>
+                <color name="chocolate" >#D2691E
+                </color>
+                <color name="bisque" >#FFE4C4
+                </color>
+                <color name="lawngreen" >#7CFC00
+                </color>
+                <color name="burlywood" >#DEB887
+                </color>
+                <color name="lightgreen" >#90EE90
+                </color>
+                <color name="lavenderblush" >#FFF0F5
+                </color>
+                <color name="khaki" >#F0E68C
+                </color>
+                <color name="midnightblue" >#191970
+                </color>
+                <color name="azure" >#F0FFFF
+                </color>
+                <color name="black" >#000000
+                </color>
+                <color name="saddlebrown" >#8B4513
+                </color>
+                <color name="lightgrey" >#D3D3D3
+                </color>
+                <color name="ivory" >#FFFFF0
+                </color>
+                <color name="mediumaquamarine" >#66CDAA
+                </color>
+                <color name="lemonchiffon" >#FFFACD
+                </color>
+                <color name="blue" >#0000FF
+                </color>
+                <color name="navy" >#000080
+                </color>
+                <color name="ghostwhite" >#F8F8FF
+                </color>
+                <color name="gold" >#FFD700
+                </color>
+                <color name="tomato" >#FF6347
+                </color>
+                <color name="lightpink" >#FFB6C1
+                </color>
+                <color name="mediumblue" >#0000CD
+                </color>
+                <color name="pink" >#FFC0CB
+                </color>
+                <color name="indianred" >#CD5C5C
+                </color>
+                <color name="purple" >#800080
+                </color>
+                <color name="darkgray" >#A9A9A9
+                </color>
+                <color name="dodgerblue" >#1E90FF
+                </color>
+                <color name="salmon" >#FA8072
+                </color>
+                <color name="mistyrose" >#FFE4E1
+                </color>
+                <color name="darkorchid" >#9932CC
+                </color>
+                <color name="dimgray" >#696969
+                </color>
+                <color name="navajowhite" >#FFDEAD
+                </color>
+                <color name="blanchedalmond" >#FFEBCD
+                </color>
+                <color name="darkorange" >#FF8C00
+                </color>
+                <color name="lightskyblue" >#87CEFA
+                </color>
+                <color name="oldlace" >#FDF5E6
+                </color>
+                <color name="green" >#008000
+                </color>
+                <color name="sienna" >#A0522D
+                </color>
+                <color name="cornsilk" >#FFF8DC
+                </color>
+                <color name="peachpuff" >#FFDAB9
+                </color>
+                <color name="deeppink" >#FF1493
+                </color>
+                <color name="beige" >#F5F5DC
+                </color>
+                <color name="darkslategrey" >#2F4F4F
+                </color>
+                <color name="fuchsia" >#FF00FF
+                </color>
+                <color name="slategrey" >#708090
+                </color>
+                <color name="limegreen" >#32CD32
+                </color>
+                <color name="lavender" >#E6E6FA
+                </color>
+                <color name="tan" >#D2B48C
+                </color>
+                <color name="orangered" >#FF4500
+                </color>
+                <color name="lightsteelblue" >#B0C4DE
+                </color>
+                <color name="darkmagenta" >#8B008B
+                </color>
+                <color name="antiquewhite" >#FAEBD7
+                </color>
+                <color name="forestgreen" >#228B22
+                </color>
+                <color name="wheat" >#F5DEB3
+                </color>
+                <color name="crimson" >#DC143C
+                </color>
+                <color name="palevioletred" >#DB7093
+                </color>
+                <color name="skyblue" >#87CEEB
+                </color>
+                <color name="aquamarine" >#7FFFD4
+                </color>
+                <color name="royalblue" >#4169E1
+                </color>
+                <color name="peru" >#CD853F
+                </color>
+                <color name="darkslateblue" >#483D8B
+                </color>
+                <color name="gray" >#808080
+                </color>
+                <color name="darkblue" >#00008B
+                </color>
+                <color name="yellow" >#FFFF00
+                </color>
+                <color name="lightseagreen" >#20B2AA
+                </color>
+                <color name="lightslategray" >#778899
+                </color>
+                <color name="sandybrown" >#F4A460
+                </color>
+                <color name="goldenrod" >#DAA520
+                </color>
+                <color name="firebrick" >#B22222
+                </color>
+                <color name="white" >#FFFFFF
+                </color>
+                <color name="lightcoral" >#F08080
+                </color>
+                <color name="mediumspringgreen" >#00FA9A
+                </color>
+                <color name="floralwhite" >#FFFAF0
+                </color>
+                <color name="papayawhip" >#FFEFD5
+                </color>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/hjmao/workspace/specialfriend/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+        </source>
+        <source path="/home/hjmao/workspace/specialfriend/app/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/hjmao/workspace/specialfriend/app/src/debug/res" />
+    </dataSet>
+
+</merger>
